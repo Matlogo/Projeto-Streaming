@@ -1,1 +1,2 @@
-gcc arquivo.c -o executavel -lbiblioteca
+sudo apt-get update
+sudo apt-get install build-essential
